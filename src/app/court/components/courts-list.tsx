@@ -12,6 +12,8 @@ export const TEMPORARY_COURTS = [
     zipcode: '02139',
     slug: 'mit-recreation-zesiger-sports-and-fitness-center',
     image: '/mit.png',
+    website: 'http://www.bu.edu/fitrec',
+    phone: '(617) 620-7566',
   },
   {
     id: '2',
@@ -22,6 +24,8 @@ export const TEMPORARY_COURTS = [
     zipcode: '02215',
     slug: 'boston-university-fitness-and-recreational-center',
     image: '/boston-university.png',
+    website: 'http://www.bu.edu/fitrec',
+    phone: '(617) 620-7566',
   },
   {
     id: '3',
@@ -32,6 +36,8 @@ export const TEMPORARY_COURTS = [
     zipcode: '01581',
     slug: 'boston-badminton',
     image: '/boston-badminton.png',
+    website: 'http://www.bu.edu/fitrec',
+    phone: '(617) 620-7566',
   },
   {
     id: '4',
@@ -42,6 +48,8 @@ export const TEMPORARY_COURTS = [
     zipcode: '02481',
     slug: 'maugus-club',
     image: '/maugus-club.png',
+    website: 'http://www.bu.edu/fitrec',
+    phone: '(617) 620-7566',
   },
 ];
 
